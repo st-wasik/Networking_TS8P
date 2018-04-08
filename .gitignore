@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+.vs/TS8P/v14/.suo
+.vs/TS8P/v15/.suo
+*.db
+*.opendb
+*.ipch
+*.pdb
+*.log
+*.tlog
+*.idb
+*.vcxproj
+*.ilk
+*.iobj
+*.ipdb
